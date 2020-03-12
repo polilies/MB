@@ -88,8 +88,6 @@ def MbReadGate():
 		else:
 			pass
 	conn.close()
-
-
 #timer = set_interval(MbReadGate, 10)
 
 
